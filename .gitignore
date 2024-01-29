@@ -2,6 +2,6 @@ credentials*.*
 *json
 *token*
 *pickle*
-*.idea*
+*.idea*/*
 *.json
 *idea/*
